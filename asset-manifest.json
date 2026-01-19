@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TextManipulator-react/static/css/main.e6c13ad2.css",
+    "main.js": "/TextManipulator-react/static/js/main.b78e96d7.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/TextManipulator-react/static/js/453.fd2f0c4a.chunk.js",
+    "static/media/logo.svg": "/TextManipulator-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TextManipulator-react/index.html",
+    "main.e6c13ad2.css.map": "/TextManipulator-react/static/css/main.e6c13ad2.css.map",
+    "main.b78e96d7.js.map": "/TextManipulator-react/static/js/main.b78e96d7.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/TextManipulator-react/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b78e96d7.js"
+  ]
+}
